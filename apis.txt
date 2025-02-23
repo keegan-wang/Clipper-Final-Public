@@ -1,0 +1,5 @@
+elevenlabs
+sk_cd2597b201a73ae2b8e5651aa9dd7a66ca3fc8938ced6458
+
+
+ELEVEN_API_KEY

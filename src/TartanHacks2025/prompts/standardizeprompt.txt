@@ -1,0 +1,11 @@
+You will be given a dictionary of objects, I need you to group very similar objects into same categories.
+
+You will do that by returning a json of the exact same structure given to you as an input, but with the values of each key changed into their corresponding category.
+Please do not be too generalized with your standardization, be as specific as possible.
+
+Here is an example:
+Input:
+{'creature': '', 'water': '', 'marine predator': '', 'aquatic creature': '', 'penguin': ''}
+
+Output:
+{"creature": "creature", "water": "water", "marine predator": "aquatic creature", "aquatic creature": "aquatic creature", "penguin": "penguin"}

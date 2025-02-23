@@ -1,0 +1,112 @@
+[
+    {
+        "timestamp": 0,
+        "objects": []
+    },
+    {
+        "timestamp": 1,
+        "objects": []
+    },
+    {
+        "timestamp": 2,
+        "objects": []
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": []
+    },
+    {
+        "timestamp": 5,
+        "objects": []
+    },
+    {
+        "timestamp": 6,
+        "objects": []
+    },
+    {
+        "timestamp": 7,
+        "objects": []
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "potted plant"
+        ]
+    },
+    {
+        "timestamp": 20,
+        "objects": [
+            "potted plant"
+        ]
+    }
+]

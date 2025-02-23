@@ -1,0 +1,146 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "dog",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "sheep",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "dog",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "sheep",
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 20,
+        "objects": [
+            "sheep",
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 21,
+        "objects": [
+            "sheep",
+            "dog"
+        ]
+    },
+    {
+        "timestamp": 22,
+        "objects": [
+            "sheep"
+        ]
+    }
+]

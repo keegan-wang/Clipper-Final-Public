@@ -1,0 +1,1 @@
+Analyze these frames and identify all objects in each. Return the output as a JSON dictionary with timestamps as keys and detected objects as values.

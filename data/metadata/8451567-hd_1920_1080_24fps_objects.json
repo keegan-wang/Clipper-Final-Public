@@ -1,0 +1,142 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": [
+            "giraffe",
+            "horse"
+        ]
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "horse",
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 20,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 21,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 22,
+        "objects": [
+            "giraffe"
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "timestamp": 0,
+        "objects": []
+    },
+    {
+        "timestamp": 1,
+        "objects": []
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "bird",
+            "hot dog"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "hot dog"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "hot dog",
+            "hot dog",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": []
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "bird",
+            "bird",
+            "bird",
+            "bird",
+            "bird",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "bird",
+            "bird",
+            "bird",
+            "bird",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "cow"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "skateboard",
+            "hot dog"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "carrot",
+            "bird",
+            "bird",
+            "hot dog"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "hot dog",
+            "bird",
+            "person",
+            "hot dog",
+            "banana",
+            "hot dog"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "cow",
+            "hot dog",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "bird",
+            "person",
+            "bird",
+            "elephant"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "bird",
+            "bird",
+            "hot dog",
+            "bird",
+            "bird"
+        ]
+    }
+]

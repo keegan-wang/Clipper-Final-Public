@@ -1,0 +1,68 @@
+[
+    {
+        "timestamp": 0,
+        "objects": []
+    },
+    {
+        "timestamp": 1,
+        "objects": []
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "sports ball"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": []
+    },
+    {
+        "timestamp": 4,
+        "objects": []
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "vase"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "sports ball"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": []
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": []
+    },
+    {
+        "timestamp": 10,
+        "objects": []
+    },
+    {
+        "timestamp": 11,
+        "objects": []
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "vase"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "vase"
+        ]
+    }
+]

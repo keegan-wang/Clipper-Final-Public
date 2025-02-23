@@ -1,0 +1,234 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "bird",
+            "sports ball"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "sports ball",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "sports ball",
+            "person"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 20,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 21,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 22,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 23,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 24,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 25,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 26,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 27,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 28,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 29,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 30,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 31,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 32,
+        "objects": [
+            "bear",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 33,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 34,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 35,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 36,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 37,
+        "objects": [
+            "bird"
+        ]
+    }
+]

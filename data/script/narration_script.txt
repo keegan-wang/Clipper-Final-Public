@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+The dog is fat. The whale is blue. There is a tree
+=======
+The penguin jumps into the water. Then it tries to eat the fish.
+>>>>>>> Stashed changes
+=======
+The dog sat on the beach.
+>>>>>>> parent of d86a117 (newest vers)

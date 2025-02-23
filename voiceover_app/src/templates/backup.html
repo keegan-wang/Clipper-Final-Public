@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+    <title>Text to MP3</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Text to Speech (MP3 Generator)</h1>
+
+        <p class="subheading">Enter your text below and we'll generate a voiceover in MP3 format for you!</p>
+
+        <!-- Text input area for user script -->
+        <textarea id="textInput" placeholder="Please enter your text here..."></textarea>
+
+        <!-- Button to generate the MP3 -->
+        <button onclick="generateMP3()">Generate MP3</button>
+
+        <!-- Result message and download link -->
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        async function generateMP3() {
+            const text = document.getElementById('textInput').value;
+            
+            if (!text) {
+                alert('Please enter some text!');
+                return;
+            }
+
+            // Send POST request to Flask backend
+            const response = await fetch('/synthesize', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text })
+            });
+
+            const data = await response.json();
+
+            if (data.error) {
+                alert('Error: ' + data.error);
+            } else {
+                // Display download link to the generated MP3
+                const fileUrl = data.file_url;
+                const resultDiv = document.getElementById('result');
+                resultDiv.innerHTML = `
+                    <p class="success-message">MP3 file has been generated!</p>
+                    <a href="${fileUrl}" download class="download-link">Click here to download the MP3</a>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

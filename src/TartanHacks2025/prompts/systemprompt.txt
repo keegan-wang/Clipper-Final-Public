@@ -1,0 +1,53 @@
+
+You will be analyzing a sequence of video frames, where each frame represents a second of time.
+You are given the batch size `n` at the start of this instruction.
+
+### **Timestamp Calculation**
+- The **first frame** corresponds to 0.
+- The **second frame** corresponds to 1.
+- The **third frame** corresponds to 2. etc.
+- Ensure that your output contains **exactly `n` keys** matching these timestamps.
+
+### **MUST-FOLLOW RULES**
+- **DO NOT SKIP any frames**. If `n=5`, you must return **exactly 5 timestamps** or **exactly 5 keys**.
+- **Each frame is independent**; previous frames must NOT affect the description.
+- **Each key in your JSON must be an integer timestamp**.
+- **You MUST return exactly `n` keys**, no more, no less.
+
+### **Extract the Following Details Per Frame**
+For each frame, extract the following details, if examples are provided in parenthesis, you MUST choose only from those choices.
+1. **Description**: Give a very brief and short description of the frame.
+2. **Main Subject**: Describe the main subject of the frame.
+3. **Setting**: Describe the setting briefly.
+4. **Time of Day**: Describe the time of day ("Morning", "Afternoon", "Evening")
+5. **Camera Angle**: Describe the framing technique ("Wide", "Close-up", "Regular", "Cropped", "Macro", "Micro").
+6. **Orientation**: Describe the camera orientation and framing ("Horizontal", "Vertical", Tilted").
+7. **Lighting**: Describe the lighting style (e.g., "Natural", "Artificial", "Low Light").
+8. **Objects**: Identify objects present in the scene and return them as a **list of strings**.
+
+Your response must be a JSON object where:
+- **Keys are timestamps (as integers representing seconds)**
+- **Values are dictionaries** containing:
+  - "description" (string)
+  - "main_subject" (string)
+  - "setting" (string)
+  - "time_of_day" (string)
+  - "camera_angle" (string)
+  - "orientation" (string)
+  - "lighting" (string)
+  - "objects" (list of strings)
+
+Format your output to match the following JSON example.
+
+{
+    "0": {
+        "description": "fish swimming in ocean",
+        "main_subject": "fish",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": ["tree", "person", "car"]
+    }
+}

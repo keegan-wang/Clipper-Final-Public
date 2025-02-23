@@ -1,0 +1,156 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": [
+            "bear",
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "bear",
+            "cat"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "bird",
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "bird",
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": []
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "bear",
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 11,
+        "objects": [
+            "cat"
+        ]
+    },
+    {
+        "timestamp": 12,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 13,
+        "objects": [
+            "bear"
+        ]
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "bear",
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "giraffe",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "giraffe",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 19,
+        "objects": [
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 20,
+        "objects": [
+            "giraffe",
+            "sheep"
+        ]
+    },
+    {
+        "timestamp": 21,
+        "objects": [
+            "giraffe"
+        ]
+    },
+    {
+        "timestamp": 22,
+        "objects": [
+            "cat"
+        ]
+    },
+    {
+        "timestamp": 23,
+        "objects": []
+    },
+    {
+        "timestamp": 24,
+        "objects": [
+            "bear",
+            "bird"
+        ]
+    }
+]

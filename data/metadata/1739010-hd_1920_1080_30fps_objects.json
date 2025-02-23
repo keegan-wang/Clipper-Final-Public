@@ -1,0 +1,106 @@
+[
+    {
+        "timestamp": 0,
+        "objects": []
+    },
+    {
+        "timestamp": 1,
+        "objects": []
+    },
+    {
+        "timestamp": 2,
+        "objects": []
+    },
+    {
+        "timestamp": 3,
+        "objects": []
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "surfboard"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": []
+    },
+    {
+        "timestamp": 6,
+        "objects": []
+    },
+    {
+        "timestamp": 7,
+        "objects": []
+    },
+    {
+        "timestamp": 8,
+        "objects": [
+            "airplane"
+        ]
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "boat"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": []
+    },
+    {
+        "timestamp": 11,
+        "objects": []
+    },
+    {
+        "timestamp": 12,
+        "objects": []
+    },
+    {
+        "timestamp": 13,
+        "objects": []
+    },
+    {
+        "timestamp": 14,
+        "objects": []
+    },
+    {
+        "timestamp": 15,
+        "objects": [
+            "cow"
+        ]
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "surfboard",
+            "person",
+            "surfboard"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "airplane",
+            "person",
+            "surfboard"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": []
+    },
+    {
+        "timestamp": 19,
+        "objects": []
+    },
+    {
+        "timestamp": 20,
+        "objects": []
+    },
+    {
+        "timestamp": 21,
+        "objects": []
+    }
+]

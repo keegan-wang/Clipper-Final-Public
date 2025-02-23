@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+    <title>Text to MP3</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Text to Speech (MP3 Generator)</h1>
+
+        <p class="subheading">Enter your text below and choose a language and voice to generate a voiceover in MP3 format!</p>
+
+        <!-- Text input area for user script -->
+        <textarea id="textInput" placeholder="Please enter your text here..."></textarea>
+
+        <!-- Dropdown for language selection -->
+        <label for="languageSelect">Choose a language:</label>
+        <select id="languageSelect" onchange="populateVoices()">
+            <option value="">Select a language</option>
+        </select>
+
+        <!-- Dropdown for voice selection -->
+        <label for="voiceSelect">Choose a voice:</label>
+        <select id="voiceSelect">
+            <option value="">Select a voice</option>
+        </select>
+
+        <!-- Button to generate the MP3 -->
+        <button onclick="generateMP3()">Generate MP3</button>
+
+        <!-- Result message and download link -->
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        // Fetch voices and languages from the backend
+        async function fetchVoices() {
+            const response = await fetch('/get_voices');
+            const data = await response.json();
+
+            if (data.error) {
+                alert('Error fetching voices: ' + data.error);
+                return;
+            }
+
+            const languages = {};
+
+            // Group voices by language
+            data.voices.forEach(voice => {
+                if (!languages[voice.Language]) {
+                    languages[voice.Language] = [];
+                }
+                languages[voice.Language].push(voice);
+            });
+
+            // Populate the language select dropdown
+            const languageSelect = document.getElementById('languageSelect');
+            for (const [language, voices] of Object.entries(languages)) {
+                const option = document.createElement('option');
+                option.value = language;
+                option.textContent = language;
+                languageSelect.appendChild(option);
+            }
+        }
+
+        // Populate voice options based on selected language
+        function populateVoices() {
+            const languageSelect = document.getElementById('languageSelect');
+            const voiceSelect = document.getElementById('voiceSelect');
+            const selectedLanguage = languageSelect.value;
+
+            // Clear current voices
+            voiceSelect.innerHTML = '<option value="">Select a voice</option>';
+
+            if (!selectedLanguage) return;
+
+            fetch('/get_voices')
+                .then(response => response.json())
+                .then(data => {
+                    const voices = data.voices.filter(voice => voice.Language === selectedLanguage);
+
+                    voices.forEach(voice => {
+                        const option = document.createElement('option');
+                        option.value = voice.VoiceId;
+                        option.textContent = voice.VoiceId;
+                        voiceSelect.appendChild(option);
+                    });
+                });
+        }
+
+        async function generateMP3() {
+            const text = document.getElementById('textInput').value;
+            const voice = document.getElementById('voiceSelect').value;
+
+            if (!text || !voice) {
+                alert('Please enter some text and select a voice!');
+                return;
+            }
+
+            // Send POST request to Flask backend with the selected voice
+            const response = await fetch('/synthesize', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text, voice })
+            });
+
+            const data = await response.json();
+
+            if (data.error) {
+                alert('Error: ' + data.error);
+            } else {
+                // Display download link to the generated MP3
+                const fileUrl = data.file_url;
+                const resultDiv = document.getElementById('result');
+                resultDiv.innerHTML = `
+                    <p class="success-message">MP3 file has been generated!</p>
+                    <a href="${fileUrl}" download class="download-link">Click here to download the MP3</a>
+                `;
+            }
+        }
+
+        // Load voices on page load
+        window.onload = fetchVoices;
+    </script>
+</body>
+</html>

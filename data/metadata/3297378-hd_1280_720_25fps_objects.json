@@ -1,0 +1,105 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": [
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "kite",
+            "kite",
+            "person"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": [
+            "person",
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "kite",
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "person",
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": []
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": []
+    },
+    {
+        "timestamp": 10,
+        "objects": []
+    },
+    {
+        "timestamp": 11,
+        "objects": []
+    },
+    {
+        "timestamp": 12,
+        "objects": []
+    },
+    {
+        "timestamp": 13,
+        "objects": []
+    },
+    {
+        "timestamp": 14,
+        "objects": [
+            "vase"
+        ]
+    },
+    {
+        "timestamp": 15,
+        "objects": []
+    },
+    {
+        "timestamp": 16,
+        "objects": [
+            "vase"
+        ]
+    },
+    {
+        "timestamp": 17,
+        "objects": [
+            "kite"
+        ]
+    },
+    {
+        "timestamp": 18,
+        "objects": [
+            "kite"
+        ]
+    }
+]

@@ -1,0 +1,2712 @@
+{
+    "0": {
+        "description": "prehistoric creature underwater",
+        "main_subject": "prehistoric creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "creature",
+            "water"
+        ]
+    },
+    "1": {
+        "description": "Large prehistoric marine predator swimming",
+        "main_subject": "prehistoric marine predator",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine predator",
+            "water"
+        ]
+    },
+    "2": {
+        "description": "Large aquatic creature swimming underwater",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature",
+            "water"
+        ]
+    },
+    "3": {
+        "description": "large prehistoric reptile underwater",
+        "main_subject": "prehistoric reptile",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "bubbles",
+            "water"
+        ]
+    },
+    "4": {
+        "description": "Large prehistoric marine reptile underwater",
+        "main_subject": "prehistoric marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "5": {
+        "description": "large aquatic creature underwater",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature"
+        ]
+    },
+    "6": {
+        "description": "Large prehistoric sea creature swimming",
+        "main_subject": "prehistoric sea creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature"
+        ]
+    },
+    "7": {
+        "description": "prehistoric marine creature underwater",
+        "main_subject": "prehistoric creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine creature"
+        ]
+    },
+    "8": {
+        "description": "Underwater creature swimming",
+        "main_subject": "prehistoric marine reptile",
+        "setting": "underwater ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "9": {
+        "description": "large aquatic creature swimming",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature"
+        ]
+    },
+    "10": {
+        "description": "whale swimming in dark ocean waters",
+        "main_subject": "whale",
+        "setting": "ocean",
+        "time_of_day": "Unknown",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Low Light",
+        "objects": [
+            "whale"
+        ]
+    },
+    "11": {
+        "description": "coastal cliffs and ocean",
+        "main_subject": "ocean",
+        "setting": "coastal cliffs",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliffs",
+            "ocean",
+            "sky"
+        ]
+    },
+    "12": {
+        "description": "coastal cliffside view with ocean",
+        "main_subject": "cliffs and ocean",
+        "setting": "coastline",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliffs",
+            "ocean",
+            "clouds"
+        ]
+    },
+    "13": {
+        "description": "boat on ocean water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliffs"
+        ]
+    },
+    "14": {
+        "description": "Boat sailing on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliffs"
+        ]
+    },
+    "15": {
+        "description": "boat sailing on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean near cliffs",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "cliffs",
+            "ocean"
+        ]
+    },
+    "16": {
+        "description": "boat floating in the ocean",
+        "main_subject": "boat",
+        "setting": "ocean near cliffs",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliffs"
+        ]
+    },
+    "17": {
+        "description": "person standing on a boat",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket"
+        ]
+    },
+    "18": {
+        "description": "person on a boat at sea",
+        "main_subject": "person",
+        "setting": "sea",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket"
+        ]
+    },
+    "19": {
+        "description": "Person standing on a boat",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket",
+            "ocean"
+        ]
+    },
+    "20": {
+        "description": "person standing on boat",
+        "main_subject": "person",
+        "setting": "on a boat at sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket",
+            "water"
+        ]
+    },
+    "21": {
+        "description": "person on a boat",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket",
+            "sea"
+        ]
+    },
+    "22": {
+        "description": "Person on a boat in the ocean",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "jacket"
+        ]
+    },
+    "23": {
+        "description": "Person on a boat in the ocean",
+        "main_subject": "person",
+        "setting": "ocean on a boat",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean"
+        ]
+    },
+    "24": {
+        "description": "person on a boat in the ocean",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life jacket"
+        ]
+    },
+    "25": {
+        "description": "boat sailing on the sea",
+        "main_subject": "boat",
+        "setting": "open sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life preserver"
+        ]
+    },
+    "26": {
+        "description": "Boat on open water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "life ring"
+        ]
+    },
+    "27": {
+        "description": "boat floating on the water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "life ring"
+        ]
+    },
+    "28": {
+        "description": "boat on open water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean"
+        ]
+    },
+    "29": {
+        "description": "boat floating in open water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "life preserver"
+        ]
+    },
+    "30": {
+        "description": "boat on the sea",
+        "main_subject": "boat",
+        "setting": "sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life ring",
+            "radio antenna"
+        ]
+    },
+    "31": {
+        "description": "Boat on open water",
+        "main_subject": "boat",
+        "setting": "sea",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life preserver"
+        ]
+    },
+    "32": {
+        "description": "Person on a boat with scenic cliffs in background",
+        "main_subject": "person",
+        "setting": "on a boat in the sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "cliffs",
+            "water"
+        ]
+    },
+    "33": {
+        "description": "person on boat in the ocean",
+        "main_subject": "person",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliffs"
+        ]
+    },
+    "34": {
+        "description": "Person on a boat near cliffs",
+        "main_subject": "person",
+        "setting": "boat on the ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliffs",
+            "life jacket"
+        ]
+    },
+    "35": {
+        "description": "person standing on a boat near cliffs",
+        "main_subject": "person",
+        "setting": "ocean near cliffs",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "cliffs",
+            "water",
+            "sky"
+        ]
+    },
+    "36": {
+        "description": "Person standing on a boat in front of cliffs",
+        "main_subject": "person on a boat",
+        "setting": "seascape with cliffs",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life vest",
+            "cliffs",
+            "water"
+        ]
+    },
+    "37": {
+        "description": "Person on a boat in the sea",
+        "main_subject": "person",
+        "setting": "sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "sea",
+            "hills"
+        ]
+    },
+    "38": {
+        "description": "person on a boat in the ocean",
+        "main_subject": "boat",
+        "setting": "open ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "person",
+            "life buoy"
+        ]
+    },
+    "39": {
+        "description": "boat on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life ring",
+            "boxes"
+        ]
+    },
+    "40": {
+        "description": "Boat sailing in the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "person",
+            "life ring",
+            "ocean"
+        ]
+    },
+    "41": {
+        "description": "boat on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "life ring",
+            "person"
+        ]
+    },
+    "42": {
+        "description": "Boat on the sea with a person onboard",
+        "main_subject": "boat",
+        "setting": "sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "person",
+            "life ring"
+        ]
+    },
+    "43": {
+        "description": "Boat sailing in blue sea",
+        "main_subject": "boat",
+        "setting": "sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "life ring",
+            "person"
+        ]
+    },
+    "44": {
+        "description": "A small boat on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "life preserver"
+        ]
+    },
+    "45": {
+        "description": "boat floating on ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "shoreline",
+            "person"
+        ]
+    },
+    "46": {
+        "description": "boat on ocean with a fish near surface",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "fish",
+            "ocean"
+        ]
+    },
+    "47": {
+        "description": "Boat on ocean with a large sea creature underwater",
+        "main_subject": "boat and sea creature",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "sea creature",
+            "water",
+            "life ring",
+            "hills"
+        ]
+    },
+    "48": {
+        "description": "Boat on the ocean with person aboard",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "person",
+            "mountain"
+        ]
+    },
+    "49": {
+        "description": "boat floating on ocean with shadow of large marine creature",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "shadow",
+            "cliffs"
+        ]
+    },
+    "50": {
+        "description": "Boat on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "coastline"
+        ]
+    },
+    "51": {
+        "description": "Boat on ocean with coastline in the background",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "coastline"
+        ]
+    },
+    "52": {
+        "description": "Boat floating on the ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "cliff"
+        ]
+    },
+    "53": {
+        "description": "boat on the ocean with land in the background",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "land"
+        ]
+    },
+    "54": {
+        "description": "boat floating on ocean",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "land"
+        ]
+    },
+    "55": {
+        "description": "Boat on ocean surface",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "water",
+            "hills"
+        ]
+    },
+    "56": {
+        "description": "boat on open water",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "sky",
+            "land"
+        ]
+    },
+    "57": {
+        "description": "Boat on ocean near coastline",
+        "main_subject": "boat",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "boat",
+            "ocean",
+            "coastline"
+        ]
+    },
+    "58": {
+        "description": "Large marine reptile swimming underwater",
+        "main_subject": "marine reptile",
+        "setting": "underwater ocean",
+        "time_of_day": "Unknown",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile",
+            "small fish"
+        ]
+    },
+    "59": {
+        "description": "Large prehistoric marine animal swimming",
+        "main_subject": "prehistoric marine animal",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine animal"
+        ]
+    },
+    "60": {
+        "description": "prehistoric marine creature underwater",
+        "main_subject": "marine creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine creature",
+            "water",
+            "bubbles"
+        ]
+    },
+    "61": {
+        "description": "large prehistoric marine creature underwater",
+        "main_subject": "prehistoric marine creature",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine creature"
+        ]
+    },
+    "62": {
+        "description": "prehistoric animal underwater",
+        "main_subject": "prehistoric marine animal",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "water"
+        ]
+    },
+    "63": {
+        "description": "Large prehistoric aquatic creature",
+        "main_subject": "prehistoric aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature",
+            "bubbles"
+        ]
+    },
+    "64": {
+        "description": "Large marine predator underwater",
+        "main_subject": "prehistoric sea creature",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature"
+        ]
+    },
+    "65": {
+        "description": "large sea creature underwater",
+        "main_subject": "prehistoric sea creature",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature",
+            "water"
+        ]
+    },
+    "66": {
+        "description": "large aquatic creature under water",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature"
+        ]
+    },
+    "67": {
+        "description": "large sea creature underwater",
+        "main_subject": "prehistoric marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "68": {
+        "description": "Large prehistoric creature underwater",
+        "main_subject": "prehistoric sea creature",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature"
+        ]
+    },
+    "69": {
+        "description": "aquatic creature swimming underwater",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature"
+        ]
+    },
+    "70": {
+        "description": "large sea creature swimming underwater",
+        "main_subject": "sea creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature"
+        ]
+    },
+    "71": {
+        "description": "large marine reptile underwater",
+        "main_subject": "marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "72": {
+        "description": "Large sea creature swimming underwater",
+        "main_subject": "sea creature",
+        "setting": "underwater ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature"
+        ]
+    },
+    "73": {
+        "description": "Large aquatic creature swimming in deep sea",
+        "main_subject": "aquatic creature",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature"
+        ]
+    },
+    "74": {
+        "description": "large marine reptile swimming underwater",
+        "main_subject": "marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile",
+            "water"
+        ]
+    },
+    "75": {
+        "description": "large marine creature swimming underwater",
+        "main_subject": "marine creature",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "76": {
+        "description": "large marine creature swimming",
+        "main_subject": "large marine creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "77": {
+        "description": "Large aquatic creature swimming underwater",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "aquatic creature",
+            "water"
+        ]
+    },
+    "78": {
+        "description": "whale swimming in ocean",
+        "main_subject": "whale",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "whale"
+        ]
+    },
+    "79": {
+        "description": "Whale swimming underwater",
+        "main_subject": "whale",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "whale",
+            "fish"
+        ]
+    },
+    "80": {
+        "description": "Large sea creature swimming",
+        "main_subject": "sea creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature",
+            "water"
+        ]
+    },
+    "81": {
+        "description": "A large aquatic creature underwater",
+        "main_subject": "aquatic creature",
+        "setting": "underwater",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "82": {
+        "description": "large aquatic creature underwater",
+        "main_subject": "prehistoric marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "83": {
+        "description": "large prehistoric marine reptile underwater",
+        "main_subject": "marine reptile",
+        "setting": "ocean",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "84": {
+        "description": "prehistoric sea creature swimming",
+        "main_subject": "prehistoric sea creature",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "prehistoric sea creature"
+        ]
+    },
+    "85": {
+        "description": "large marine reptile underwater",
+        "main_subject": "marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "86": {
+        "description": "large marine reptile swimming",
+        "main_subject": "marine reptile",
+        "setting": "underwater",
+        "time_of_day": "Unclear",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine reptile"
+        ]
+    },
+    "87": {
+        "description": "large fish swimming in water",
+        "main_subject": "large fish",
+        "setting": "underwater",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "large fish"
+        ]
+    },
+    "88": {
+        "description": "large marine animal swimming",
+        "main_subject": "marine animal",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine animal"
+        ]
+    },
+    "89": {
+        "description": "large sea creature swimming",
+        "main_subject": "sea creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "sea creature",
+            "small fish"
+        ]
+    },
+    "90": {
+        "description": "large marine animal swimming underwater",
+        "main_subject": "marine animal",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine animal",
+            "water"
+        ]
+    },
+    "91": {
+        "description": "large marine creature swimming",
+        "main_subject": "marine creature",
+        "setting": "underwater",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine creature",
+            "water"
+        ]
+    },
+    "92": {
+        "description": "large marine creature swimming",
+        "main_subject": "marine creature",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "marine creature",
+            "water"
+        ]
+    },
+    "93": {
+        "description": "Large marine animal swimming underwater",
+        "main_subject": "whale",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "whale",
+            "diver"
+        ]
+    },
+    "94": {
+        "description": "dinosaur swimming underwater",
+        "main_subject": "dinosaur",
+        "setting": "underwater",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "dinosaur",
+            "fish"
+        ]
+    },
+    "95": {
+        "description": "people working on a cliff",
+        "main_subject": "workers",
+        "setting": "cliff face near beach",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "people",
+            "beach",
+            "green tarp"
+        ]
+    },
+    "96": {
+        "description": "Person walking on beach near cliff with green netting",
+        "main_subject": "cliff",
+        "setting": "beach",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "green netting",
+            "sand",
+            "water",
+            "person"
+        ]
+    },
+    "97": {
+        "description": "coastal cliff with workers inspecting",
+        "main_subject": "cliff and workers",
+        "setting": "coastal area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "beach",
+            "net",
+            "water",
+            "people"
+        ]
+    },
+    "98": {
+        "description": "cliffside with tarp and beach",
+        "main_subject": "cliff",
+        "setting": "beach",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "tarp",
+            "cliff",
+            "sand",
+            "water"
+        ]
+    },
+    "99": {
+        "description": "people hiking near a cliff",
+        "main_subject": "hikers",
+        "setting": "beach by a cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "beach",
+            "water",
+            "people",
+            "netting"
+        ]
+    },
+    "100": {
+        "description": "people climbing cliff with rope",
+        "main_subject": "people climbing",
+        "setting": "beach and cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rope",
+            "cliff",
+            "beach"
+        ]
+    },
+    "101": {
+        "description": "cliff side with netting and beach",
+        "main_subject": "cliff with netting",
+        "setting": "beach",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "net",
+            "beach",
+            "water"
+        ]
+    },
+    "102": {
+        "description": "close-up of a rock climbing gear on a cliff",
+        "main_subject": "climbing gear",
+        "setting": "mountainside",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "rock",
+            "harness",
+            "gear"
+        ]
+    },
+    "103": {
+        "description": "person digging into rocky surface",
+        "main_subject": "person",
+        "setting": "outdoor rocky area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "rocks",
+            "tools",
+            "safety harness"
+        ]
+    },
+    "104": {
+        "description": "person climbing rocky surface",
+        "main_subject": "climber",
+        "setting": "rocky terrain",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "rope",
+            "harness"
+        ]
+    },
+    "105": {
+        "description": "Person in climbing gear on rocky terrain",
+        "main_subject": "Person",
+        "setting": "Rocky terrain",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "rope",
+            "carabiner"
+        ]
+    },
+    "106": {
+        "description": "person in helmet using drilling equipment",
+        "main_subject": "person",
+        "setting": "rocky work site",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "drill",
+            "rocks",
+            "safety harness"
+        ]
+    },
+    "107": {
+        "description": "person working with a drilling tool",
+        "main_subject": "person with a drill",
+        "setting": "rocky outdoor area",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "drill",
+            "gloves",
+            "rocks"
+        ]
+    },
+    "108": {
+        "description": "person drilling rock face",
+        "main_subject": "worker",
+        "setting": "rocky outdoors",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "drill",
+            "helmet",
+            "rope"
+        ]
+    },
+    "109": {
+        "description": "fossil embedded in rock",
+        "main_subject": "fossil",
+        "setting": "museum or excavation site",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil",
+            "rock"
+        ]
+    },
+    "110": {
+        "description": "Fossil of a prehistoric creature",
+        "main_subject": "fossil",
+        "setting": "museum or excavation site",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil"
+        ]
+    },
+    "111": {
+        "description": "fossil embedded in rock",
+        "main_subject": "fossil",
+        "setting": "exhibit display",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "fossil",
+            "rock"
+        ]
+    },
+    "112": {
+        "description": "Fossil of a prehistoric creature",
+        "main_subject": "prehistoric creature fossil",
+        "setting": "museum display or excavation site",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil",
+            "rock"
+        ]
+    },
+    "113": {
+        "description": "fossil imprint on a surface",
+        "main_subject": "fossil",
+        "setting": "museum exhibit",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil"
+        ]
+    },
+    "114": {
+        "description": "Fossil of a prehistoric creature",
+        "main_subject": "fossil",
+        "setting": "museum display",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil"
+        ]
+    },
+    "115": {
+        "description": "fossil of a prehistoric creature",
+        "main_subject": "fossil",
+        "setting": "museum display",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil"
+        ]
+    },
+    "116": {
+        "description": "dinosaur skull exhibit",
+        "main_subject": "dinosaur skulls",
+        "setting": "museum exhibit",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skull",
+            "lights"
+        ]
+    },
+    "117": {
+        "description": "dinosaur skulls on display",
+        "main_subject": "dinosaur skulls",
+        "setting": "museum exhibition",
+        "time_of_day": "Evening",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skulls",
+            "light fixtures"
+        ]
+    },
+    "118": {
+        "description": "Dinosaur skulls on display",
+        "main_subject": "dinosaur skulls",
+        "setting": "museum display",
+        "time_of_day": "Evening",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skulls",
+            "lights"
+        ]
+    },
+    "119": {
+        "description": "dinosaur skulls on display",
+        "main_subject": "dinosaur skulls",
+        "setting": "museum exhibit",
+        "time_of_day": "Evening",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skulls",
+            "lights"
+        ]
+    },
+    "120": {
+        "description": "dinosaur skulls on display",
+        "main_subject": "dinosaur skulls",
+        "setting": "museum exhibit",
+        "time_of_day": "Evening",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skulls",
+            "lights"
+        ]
+    },
+    "121": {
+        "description": "dinosaur skeleton skull on display",
+        "main_subject": "dinosaur skull",
+        "setting": "museum",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skull"
+        ]
+    },
+    "122": {
+        "description": "dinosaur skull fossil on display",
+        "main_subject": "dinosaur skull",
+        "setting": "museum exhibit",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skull"
+        ]
+    },
+    "123": {
+        "description": "dinosaur skull fossil",
+        "main_subject": "dinosaur skull",
+        "setting": "museum",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur skull"
+        ]
+    },
+    "124": {
+        "description": "blurred close-up of an object",
+        "main_subject": "blurred object",
+        "setting": "unknown",
+        "time_of_day": "unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Low Light",
+        "objects": []
+    },
+    "125": {
+        "description": "Close-up of dinosaur teeth",
+        "main_subject": "dinosaur teeth",
+        "setting": "museum display",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "dinosaur teeth"
+        ]
+    },
+    "126": {
+        "description": "close-up of dinosaur teeth",
+        "main_subject": "dinosaur teeth",
+        "setting": "museum display",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "teeth"
+        ]
+    },
+    "127": {
+        "description": "person standing on rocky shoreline",
+        "main_subject": "person",
+        "setting": "rocky shoreline",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rocks",
+            "shore",
+            "person",
+            "equipment"
+        ]
+    },
+    "128": {
+        "description": "aerial view of a beach with green cover",
+        "main_subject": "green cover",
+        "setting": "beach and water",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Tilted",
+        "lighting": "Natural",
+        "objects": [
+            "green cover",
+            "water",
+            "rocks"
+        ]
+    },
+    "129": {
+        "description": "Person on rocky beach with green netting",
+        "main_subject": "Person",
+        "setting": "Rocky beach",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Tilted",
+        "lighting": "Natural",
+        "objects": [
+            "netting",
+            "rocks",
+            "water"
+        ]
+    },
+    "130": {
+        "description": "aerial view of a rocky beach",
+        "main_subject": "beach",
+        "setting": "coastal area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "green tarp",
+            "ocean",
+            "people"
+        ]
+    },
+    "131": {
+        "description": "people working on a cliff near a beach",
+        "main_subject": "people and cliff",
+        "setting": "beach",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "beach",
+            "water",
+            "green tarp"
+        ]
+    },
+    "132": {
+        "description": "person using a drill on rock",
+        "main_subject": "worker",
+        "setting": "rocky landscape",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "drill",
+            "rock",
+            "helmet",
+            "gloves"
+        ]
+    },
+    "133": {
+        "description": "person breaking rocks",
+        "main_subject": "worker",
+        "setting": "rocky surface",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "gloves",
+            "tools",
+            "rocks"
+        ]
+    },
+    "134": {
+        "description": "Workers in protective gear at a rocky site",
+        "main_subject": "workers",
+        "setting": "rocky site",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmets",
+            "ropes",
+            "bottle"
+        ]
+    },
+    "135": {
+        "description": "person climbing rocks",
+        "main_subject": "climber",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "ropes"
+        ]
+    },
+    "136": {
+        "description": "person with helmet in rocky area",
+        "main_subject": "person",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "ropes",
+            "rocks"
+        ]
+    },
+    "137": {
+        "description": "Yellow tent near rocky terrain",
+        "main_subject": "yellow tent",
+        "setting": "rocky ground",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "tent",
+            "rocks",
+            "foil"
+        ]
+    },
+    "138": {
+        "description": "Plastic bag on rocky terrain",
+        "main_subject": "plastic bag",
+        "setting": "rocky area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "plastic bag",
+            "rock",
+            "yellow fabric"
+        ]
+    },
+    "139": {
+        "description": "close-up of mountaineering equipment and icy surface",
+        "main_subject": "mountaineering equipment",
+        "setting": "mountainous icy area",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rope",
+            "bag",
+            "ice",
+            "rocks"
+        ]
+    },
+    "140": {
+        "description": "rocky cliff with climbing gear",
+        "main_subject": "climbing gear",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rope",
+            "bag",
+            "rocks"
+        ]
+    },
+    "141": {
+        "description": "people climbing a rocky wall",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmets",
+            "harnesses",
+            "ropes"
+        ]
+    },
+    "142": {
+        "description": "people rock climbing on a cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmets",
+            "ropes",
+            "harnesses"
+        ]
+    },
+    "143": {
+        "description": "person climbing a rocky surface",
+        "main_subject": "person",
+        "setting": "rocky terrain",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rock",
+            "harness",
+            "ropes"
+        ]
+    },
+    "144": {
+        "description": "person with climbing equipment on rocky surface",
+        "main_subject": "person with climbing gear",
+        "setting": "rocky terrain",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "ropes",
+            "harness"
+        ]
+    },
+    "145": {
+        "description": "Rubble clearing with rescue team",
+        "main_subject": "rescue team",
+        "setting": "disaster site",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rubble",
+            "ropes",
+            "safety gear"
+        ]
+    },
+    "146": {
+        "description": "shadow on rocky ground",
+        "main_subject": "shadow",
+        "setting": "outdoor rocky area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Cropped",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "shadow",
+            "rocks"
+        ]
+    },
+    "147": {
+        "description": "two people climbing a rocky cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "climbing gear",
+            "ropes",
+            "green tarp"
+        ]
+    },
+    "148": {
+        "description": "Two climbers with ropes on a rocky cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "climbers",
+            "ropes",
+            "rock",
+            "harnesses"
+        ]
+    },
+    "149": {
+        "description": "people climbing a rocky cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "ropes",
+            "helmets",
+            "bags",
+            "green sheet"
+        ]
+    },
+    "150": {
+        "description": "People climbing a rocky surface",
+        "main_subject": "climbers",
+        "setting": "rocky terrain",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "climbing gear",
+            "ropes",
+            "harnesses"
+        ]
+    },
+    "151": {
+        "description": "Climbers securing rocks on a cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Morning",
+        "camera_angle": "Regular",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "climbing gear",
+            "ropes",
+            "rock face",
+            "safety harnesses"
+        ]
+    },
+    "152": {
+        "description": "Close-up of climbers with gear",
+        "main_subject": "climber",
+        "setting": "rocky terrain",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "ropes",
+            "harness"
+        ]
+    },
+    "153": {
+        "description": "Person in climbing gear",
+        "main_subject": "person",
+        "setting": "rocky terrain",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmet",
+            "ropes",
+            "climbing harness"
+        ]
+    },
+    "154": {
+        "description": "workers climbing a rocky slope",
+        "main_subject": "workers",
+        "setting": "rocky slope",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "ropes",
+            "harness",
+            "helmets",
+            "green net"
+        ]
+    },
+    "155": {
+        "description": "workers climbing a rocky slope",
+        "main_subject": "workers",
+        "setting": "rocky slope",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "workers",
+            "ropes",
+            "safety gear",
+            "green tarp"
+        ]
+    },
+    "156": {
+        "description": "climbers ascending rocky slope",
+        "main_subject": "climbers",
+        "setting": "rocky slope",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "climbing gear",
+            "helmets",
+            "ropes"
+        ]
+    },
+    "157": {
+        "description": "close view of ice and rocks",
+        "main_subject": "ice and rocks",
+        "setting": "rocky terrain",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "ice",
+            "rocks"
+        ]
+    },
+    "158": {
+        "description": "Silver object among rocks",
+        "main_subject": "silver object",
+        "setting": "rocky terrain",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "silver object",
+            "rocks",
+            "yellow fabric"
+        ]
+    },
+    "159": {
+        "description": "close-up of yellow object and foil on rocks",
+        "main_subject": "yellow object and foil",
+        "setting": "rocky area",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "yellow object",
+            "foil",
+            "rocks"
+        ]
+    },
+    "160": {
+        "description": "Climbing gear next to a rocky surface",
+        "main_subject": "climbing gear",
+        "setting": "rocky terrain",
+        "time_of_day": "Morning",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "rope",
+            "rock",
+            "bag"
+        ]
+    },
+    "161": {
+        "description": "bag and ropes near rocky terrain",
+        "main_subject": "bag with ropes",
+        "setting": "rocky outdoor area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "bag",
+            "rope",
+            "rocks"
+        ]
+    },
+    "162": {
+        "description": "close-up of bag and transparent material on rocky surface",
+        "main_subject": "bag and plastic",
+        "setting": "rocky area",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "bag",
+            "rope",
+            "rock",
+            "plastic"
+        ]
+    },
+    "163": {
+        "description": "Person rock climbing with gear",
+        "main_subject": "rock climber",
+        "setting": "cliffside",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "ropes",
+            "helmet",
+            "climbing gear"
+        ]
+    },
+    "164": {
+        "description": "climbers scaling a rocky cliff",
+        "main_subject": "climbers",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmets",
+            "ropes",
+            "harnesses",
+            "camera"
+        ]
+    },
+    "165": {
+        "description": "People rock climbing with safety gear.",
+        "main_subject": "Rock climbers",
+        "setting": "Cliffside",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "helmets",
+            "ropes",
+            "harness"
+        ]
+    },
+    "166": {
+        "description": "People working near a rockface with a large green net.",
+        "main_subject": "workers and net",
+        "setting": "rocky cliff face",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "net",
+            "rock",
+            "people"
+        ]
+    },
+    "167": {
+        "description": "People hanging a large green net on a rocky slope",
+        "main_subject": "People installing a net",
+        "setting": "Rocky slope",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "green net",
+            "rocky surface",
+            "people"
+        ]
+    },
+    "168": {
+        "description": "people working on a large green sheet",
+        "main_subject": "people installing a sheet",
+        "setting": "rocky landscape",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "green sheet",
+            "harnesses",
+            "ropes"
+        ]
+    },
+    "169": {
+        "description": "Aerial view of people climbing rock face",
+        "main_subject": "people climbing",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "rope",
+            "green tarp"
+        ]
+    },
+    "170": {
+        "description": "people climbing a rock face",
+        "main_subject": "climbers",
+        "setting": "rock cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "climbers",
+            "rock face",
+            "safety net"
+        ]
+    },
+    "171": {
+        "description": "people climbing rescuing trapped individuals",
+        "main_subject": "rescue team",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "cliff",
+            "green cloth",
+            "rescue team"
+        ]
+    },
+    "172": {
+        "description": "people working on a rocky wall with a green covering",
+        "main_subject": "people",
+        "setting": "rocky cliff",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Vertical",
+        "lighting": "Natural",
+        "objects": [
+            "green covering",
+            "rocks"
+        ]
+    },
+    "173": {
+        "description": "Modern house with solar panels",
+        "main_subject": "house",
+        "setting": "countryside with hills",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "house",
+            "solar panels",
+            "trees",
+            "hills"
+        ]
+    },
+    "174": {
+        "description": "Building with solar panels in a rural area",
+        "main_subject": "building",
+        "setting": "countryside",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "building",
+            "solar panels",
+            "grass",
+            "hills"
+        ]
+    },
+    "175": {
+        "description": "modern building with solar panels",
+        "main_subject": "building",
+        "setting": "countryside",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "building",
+            "solar panels",
+            "trees"
+        ]
+    },
+    "176": {
+        "description": "Two people discussing fossils in a museum.",
+        "main_subject": "Two people",
+        "setting": "Museum exhibit",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossils",
+            "display cases",
+            "museum exhibits"
+        ]
+    },
+    "177": {
+        "description": "Two men discussing fossils in a museum",
+        "main_subject": "two men",
+        "setting": "museum",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossils",
+            "display case",
+            "informational panels"
+        ]
+    },
+    "178": {
+        "description": "two men discussing exhibit",
+        "main_subject": "two men",
+        "setting": "museum",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Regular",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "display case",
+            "exhibit",
+            "informational board"
+        ]
+    },
+    "179": {
+        "description": "fossil of a marine creature on display",
+        "main_subject": "fossil",
+        "setting": "museum display",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil"
+        ]
+    },
+    "180": {
+        "description": "various fossils displayed in a museum exhibit",
+        "main_subject": "fossils",
+        "setting": "museum exhibit",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossils",
+            "informational labels",
+            "glass case"
+        ]
+    },
+    "181": {
+        "description": "Fossil display in museum",
+        "main_subject": "fossil",
+        "setting": "museum exhibit",
+        "time_of_day": "Unclear",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil",
+            "display case",
+            "information card"
+        ]
+    },
+    "182": {
+        "description": "fossil display in a museum",
+        "main_subject": "fossil",
+        "setting": "museum",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossil",
+            "display board"
+        ]
+    },
+    "183": {
+        "description": "fossils on display in a museum",
+        "main_subject": "fossils",
+        "setting": "museum display",
+        "time_of_day": "Unknown",
+        "camera_angle": "Close-up",
+        "orientation": "Horizontal",
+        "lighting": "Artificial",
+        "objects": [
+            "fossils",
+            "display case",
+            "informational plaque"
+        ]
+    },
+    "184": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "above water",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "185": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "above sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "186": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves",
+            "foam"
+        ]
+    },
+    "187": {
+        "description": "aerial view of turbulent ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "188": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "open sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "189": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "190": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "water"
+        ]
+    },
+    "191": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Unclear",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "192": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "sea surface",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "193": {
+        "description": "waves in the ocean",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "194": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "sea",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": []
+    },
+    "195": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean",
+        "setting": "above ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves",
+            "foam"
+        ]
+    },
+    "196": {
+        "description": "Waves crashing in the ocean",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "197": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "water",
+            "waves"
+        ]
+    },
+    "198": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "open sea",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "199": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "water"
+        ]
+    },
+    "200": {
+        "description": "waves in the ocean",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Afternoon",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves"
+        ]
+    },
+    "201": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "ocean waves",
+        "setting": "ocean",
+        "time_of_day": "Morning",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "waves",
+            "foam"
+        ]
+    },
+    "202": {
+        "description": "aerial view of ocean waves",
+        "main_subject": "waves",
+        "setting": "ocean",
+        "time_of_day": "Daytime",
+        "camera_angle": "Wide",
+        "orientation": "Horizontal",
+        "lighting": "Natural",
+        "objects": [
+            "water"
+        ]
+    }
+}

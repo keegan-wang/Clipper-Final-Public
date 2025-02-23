@@ -1,0 +1,64 @@
+[
+    {
+        "timestamp": 0,
+        "objects": [
+            "scissors"
+        ]
+    },
+    {
+        "timestamp": 1,
+        "objects": []
+    },
+    {
+        "timestamp": 2,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 3,
+        "objects": [
+            "sports ball",
+            "frisbee"
+        ]
+    },
+    {
+        "timestamp": 4,
+        "objects": []
+    },
+    {
+        "timestamp": 5,
+        "objects": [
+            "bird",
+            "pizza"
+        ]
+    },
+    {
+        "timestamp": 6,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 7,
+        "objects": [
+            "bird"
+        ]
+    },
+    {
+        "timestamp": 8,
+        "objects": []
+    },
+    {
+        "timestamp": 9,
+        "objects": [
+            "surfboard"
+        ]
+    },
+    {
+        "timestamp": 10,
+        "objects": [
+            "person"
+        ]
+    }
+]
